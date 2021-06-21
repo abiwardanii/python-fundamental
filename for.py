@@ -9,3 +9,9 @@ for index in num:
 for number in range(5):
     print(number)
 
+for number in range(1, 8):
+    print(number)
+for number in range(1, 11, 2):
+    print(number)
+
+
