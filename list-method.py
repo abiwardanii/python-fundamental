@@ -1,4 +1,5 @@
 num = [1,2,3,4,5]
+num.pop()
 print(num)
 
 num.append(6) #menambahkan object ke list
@@ -14,4 +15,7 @@ num.remove(6) #menghpaus object sesuai param
 print(num)
 
 num.sort() #mengurutkan dari terkecil ke terbesar
+print(num)
+
+num.reverse()
 print(num)
