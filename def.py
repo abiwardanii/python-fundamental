@@ -9,3 +9,8 @@ greetings("xian", "java")
 print("==========")
 greetings(lesson="go", name="rexy") #keyword argument
 print("finish")
+
+#tanpa perameter
+def halo():
+    print()
+halo()
